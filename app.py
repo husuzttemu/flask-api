@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 stores = [
     {
-        'name':'Migros',
+        'name':'Migros market',
         'items':[
             {
                 'name':"Tursil",
